@@ -1,6 +1,9 @@
 # Facts2Narration
 This Flask web app allows users to optimize text and generate audio files from those optimized text.
 
+
+<img src="image.png" height="500">
+
 Requirements:
 - OpenAI API key
 - Python3
